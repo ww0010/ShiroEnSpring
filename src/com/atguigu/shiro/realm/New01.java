@@ -9,8 +9,9 @@ public class New01 {
     private String e = "srryyyy";
     private String t = "tttt";
     
+    
   public static void main(String[] args) {
-	
+	System.out.println("11111");
 	  
 }
 }
