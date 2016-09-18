@@ -6,6 +6,7 @@ public class New01 {
   private String s = "asdasdas";
   private String d = "sssss";
    private String c = "srrrr";
+    private String e = "srryyyy";
   public static void main(String[] args) {
 	
 	  
