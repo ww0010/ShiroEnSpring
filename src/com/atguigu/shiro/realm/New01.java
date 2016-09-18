@@ -7,6 +7,8 @@ public class New01 {
   private String d = "sssss";
    private String c = "srrrr";
     private String e = "srryyyy";
+    private String t = "tttt";
+    
   public static void main(String[] args) {
 	
 	  
