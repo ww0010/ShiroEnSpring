@@ -5,6 +5,7 @@ public class New01 {
   private int b =1;
   private String s = "asdasdas";
   private String d = "sssss";
+   private String c = "srrrr";
   public static void main(String[] args) {
 	
 	  
